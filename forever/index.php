@@ -4,7 +4,7 @@
 	<meta http-equiv='Pragma' content='no-cache' />
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
-	<title>靓仔谭尧丹❤憨憨汪晓慧的故事</title>
+	<title>靓仔高鹏❤憨憨黄皖榕的故事</title>
 	<link rel="stylesheet" href="https://tanyaodan.com/love/forever/css/all.min.css">
 	<link rel="icon" href="https://tanyaodan.com/love/forever/img/love.ico" type="images/x-ico" />
 </head>
@@ -12,11 +12,11 @@
 	<div class="flowtime">
 		<div class="ft-section section-1" data-id="section-1">
 			<div id="/section-1/page-1" class="ft-page page-1" data-id="page-1">
-				<p class="text1"><span id="text-75" contenteditable="true">谭尧丹</span> ❤ <span id="text-76" contenteditable="true">汪晓慧</span> <span id="text-77" contenteditable="true">的故事</span></p>
+				<p class="text1"><span id="text-75" contenteditable="true">高鹏</span> ❤ <span id="text-76" contenteditable="true">黄皖榕</span> <span id="text-77" contenteditable="true">的故事</span></p>
 				<p class="text2">按键盘 "↓" <span id="text-78" contenteditable="true">开始倾听我的表白</span></p>
 			</div>
 			<div id="/section-1/page-2" class="ft-page page-2" data-id="page-2">
-				<p class="top-text" id="text-1" contenteditable="true">过去的谭尧丹一直是一个人生活，享受着孤独，也憧憬着爱情。</p>
+				<p class="top-text" id="text-1" contenteditable="true">过去的高鹏一直是一个人生活，享受着孤独，也憧憬着爱情。</p>
 				<img src='img/iali63.jpg' />
 			</div>
 			<div id="/section-1/page-3" class="ft-page page-3 left-img" data-id="page-3">
@@ -65,7 +65,7 @@
 			</div>
 			<div id="/section-3/page-3" class="ft-page page-13" data-id="page-3">
 				<img src='img/iali64.jpg' />
-				<h3 id="text-13" contenteditable="true">可是谭尧丹的爱情又在哪里呢？</h3>
+				<h3 id="text-13" contenteditable="true">可是高鹏的爱情又在哪里呢？</h3>
 			</div>
 			<div id="/section-3/page-4" class="ft-page page-14 left-img" data-id="page-4">
 				<h3 id="text-14" contenteditable="true">在镜子里面吗？他不敢相信</h3>
@@ -76,29 +76,28 @@
 				<img src='img/iali45.jpg' />
 			</div>
 			<div id="/section-3/page-6" class="ft-page page-16 left-img" data-id="page-6">
-				<h3><span id="text-17" contenteditable="true">于是，谭尧丹一个人继续向前走</span><br><span id="text-18" contenteditable="true">走在茫茫的雪地上</span></h3>
+				<h3><span id="text-17" contenteditable="true">于是，高鹏一个人继续向前走</span><br><span id="text-18" contenteditable="true">走在茫茫的雪地上</span></h3>
 				<img src='img/iali66.jpg' />
 			</div>
 			<div id="/section-3/page-7" class="ft-page page-17 top-text" data-id="page-7">
 				<h3 id="text-19" contenteditable="true">直到有一天<br>
-谭尧丹这个靓仔与汪晓慧这个憨憨相遇了</h3>
+这个靓仔与这个憨憨相遇了</h3>
 				<img src='img/iali16.jpg' />
 			</div>
 		</div>
 		<div class="ft-section section-4" data-id="section-4">
 			<div id="/section-4/page-1" class="ft-page page-18 full-img" data-id="page-1">
-				<p class="text" id="text-20" contenteditable="true">谭尧丹喜欢和汪晓慧聊天，<br>
-因为憨憨的她总是能给谭尧丹带来欢乐</p>
+				<p class="text" id="text-20" contenteditable="true">他喜欢和她聊天，<br>
+因为憨憨的她总是能给他带来欢乐</p>
 				<img src='img/iali11.jpg'  />
 			</div>
 			<div id="/section-4/page-2" class="ft-page page-19" data-id="page-2">
-				<h3 id="text-21" contenteditable="true">谭尧丹慢慢地喜欢上汪晓慧了，<br>
-可是他不知道汪晓慧喜欢自己吗？</h3>
+				<h3 id="text-21" contenteditable="true">他慢慢地喜欢上她了，</h3>
 				<img src="img/iali75.jpg" />
 			</div>
 			<div id="/section-4/page-3" class="ft-page page-20" data-id="page-3">
 				<img src='img/iali59.png' />
-				<h3 style="z-index: 999" id="text-22" contenteditable="true">时间来到了2019年11月17号21点06分52秒，<br>这一刻谭尧丹收到了汪晓慧给他发的一大串消息：<br>"我不知道为什么，这几天我感觉我真的喜欢上你了......<br>
+				<h3 style="z-index: 999" id="text-22" contenteditable="true">时间来到了2021年7月16号15点06分52秒，<br>我勇敢了向前走了一步<br>我们相拥着<br>
                <span style="margin-right:400px;"></span>会期待跟你聊天，会期待和你分享，<br>
                <span style="margin-right:270px;"></span>甚至可以在人群中找到你......?<br>
            	   <span style="margin-right:270px;"></span>还会经常翻着聊天记录傻笑，<br>
@@ -107,11 +106,11 @@
 				<img src='img/iali9.jpg' />
 			</div>
 			<div id="/section-4/page-4" class="ft-page page-21" data-id="page-4">
-				<h3 id="text-23" contenteditable="true">谭尧丹好开心呀!</h3>
+				<h3 id="text-23" contenteditable="true">他好开心呀!</h3>
 				<img src='img/iali59.png' />
 			</div>
 			<div id="/section-4/page-5" class="ft-page page-22 left-img" data-id="page-5">
-				<h3 id="text-24" contenteditable="true">此后每早6点多谭尧丹都会和汪晓慧一起去学习</h3>
+				<h3 id="text-24" contenteditable="true">此后每天他都会想她</h3>
 				<img src='img/iali4.jpg' />
 			</div>
 			<div id="/section-4/page-6" class="ft-page page-23 left-img" data-id="page-6">
@@ -125,7 +124,7 @@
 		</div>
 		<div class="ft-section section-5" data-id="section-5">
 			<div id="/section-5/page-1" class="ft-page page-25 left-img" data-id="page-1">
-				<h3><span id="text-27" contenteditable="true">谭尧丹正在努力朝着自己的目标奋斗</span><br><span id="text-28" contenteditable="true">汪晓慧鼓励他说: "别怕 我会陪在你身边"</span></h3>
+				<h3><span id="text-27" contenteditable="true">他正在努力朝着自己的目标奋斗</span><br><span id="text-28" contenteditable="true">他多希望她会一直陪他走下去</span></h3>
 				<img src='img/iali37.jpg' />
 			</div>
 			<div id="/section-5/page-2" class="ft-page page-26 top-text" data-id="page-2">
@@ -133,7 +132,7 @@
 				<img src='img/iali10.gif' />
 			</div>
 			<div id="/section-5/page-3" class="ft-page page-27" data-id="page-3">
-				<h3 id="text-30" contenteditable="true">谭尧丹以后会陪着汪晓慧逛街，<br/>
+				<h3 id="text-30" contenteditable="true">他以后会陪着她逛街，<br/>
 “陪你逛街~   逛成扁平足也没关系~”</h3>
 				<img src='img/iali67.jpg'  />
 			</div>
@@ -159,21 +158,21 @@
 			</div>
 			<div id="/section-5/page-7" class="ft-page page-31" data-id="page-7">
 				<h3 id="text-34" contenteditable="true">为了更好的未来，
-谭尧丹会努力地学习  </h3>
+他会努力地学习  </h3>
 				<img src='img/iali77.jpg' />
 			</div>
 		</div>
 		<div class="ft-section section-6" data-id="section-6">
 			<div id="/section-6/page-1" class="ft-page page-32" data-id="page-1">
-				<h3 id="text-35" contenteditable="true">对了，谭尧丹会做饭菜</h3>
+				<h3 id="text-35" contenteditable="true">对了，他会做饭菜</h3>
 				<img src='img/iali62.jpg'  />
 			</div>
 			<div id="/section-6/page-2" class="ft-page page-33 top-text" data-id="page-2">
-				<h3 id="text-36" contenteditable="true">汪晓慧说: "家规的第二条是老公做饭"</h3>
+				<h3 id="text-36" contenteditable="true">家规的第二条是男人做饭</h3>
 				<img src='img/iali3.jpg' />
 			</div>
 			<div id="/section-6/page-3" class="ft-page page-34 left-img" data-id="page-3">
-				<h3 id="text-37" contenteditable="true">他们以后可能会在同一个站台，一起去公司敲代码<br>
+				<h3 id="text-37" contenteditable="true">他每每想到这，敲的代码都是甜的<br>
 				“就算庸庸碌碌匆匆忙忙活过一辈子<span style="margin-right:100px;"></span><br>
 				也要分分秒秒年年日日<span style="margin-right:200px;"></span><br>
 				全心守护你最小的事”<span style="margin-right:100px;"></span></h3>
@@ -198,17 +197,17 @@
 		</div>
 		<div class="ft-section section-7" data-id="section-7">
 			<div id="/section-7/page-1" class="ft-page page-39 left-img" data-id="page-1">
-				<h3 id="text-44" contenteditable="true">如果没有汪晓慧在身边，窗外就没有风景</h3>
+				<h3 id="text-44" contenteditable="true">如果没有黄皖榕在身边，窗外就没有风景</h3>
 				<img src='img/iali2.jpg' />
 			</div>
 			<div id="/section-7/page-2" class="ft-page page-40" data-id="page-2">
-				<h3 id="text-45" contenteditable="true">如果没有汪晓慧在身后</h3>
+				<h3 id="text-45" contenteditable="true">如果没有黄皖榕在身后</h3>
 				<img src='img/iali14.jpg'  />
 			</div>
 			<div id="/section-7/page-3" class="ft-page page-41" data-id="page-3">
 				<img src='img/iali30_1.jpg' class='img1'/>
 				<img src='img/iali30_2.jpg' class='img2'/>
-				<h3 id="text-46" contenteditable="true"> 谭尧丹又怎会飞得更高更远</h3>
+				<h3 id="text-46" contenteditable="true"> 高鹏又怎会飞得更高更远</h3>
 			</div>
 			<div id="/section-7/page-4" class="ft-page page-42" data-id="page-4">
 				<h3><span id="text-47" contenteditable="true">“记得我写给你的情书 都什么年代了 到现在我还写着”</span><br></h3>
@@ -232,8 +231,8 @@
 				<img src='img/iali57.gif' />
 				<h3>
 					<span></span><span></span>
-					<span id="text-54" contenteditable="true">马上就要到圣诞节了</span>
-					<span id="text-55" contenteditable="true">谭尧丹开心地准备礼物</span>
+					<span id="text-54" contenteditable="true">他想变得很浪漫</span>
+					<span id="text-55" contenteditable="true">每天都想给她制造惊喜</span>
 				</h3>
 			</div>
 			<div id="/section-8/page-2" class="ft-page page-47 top-text" data-id="page-2">
@@ -278,7 +277,7 @@
 			<div id="/section-9/page-4" class="ft-page page-55 right-img" data-id="page-4">
 				<img src='img/14915.jpg' />
 				<p class="text">
-					<span id="text-73" contenteditable="true">谭尧丹和汪晓慧的故事还会一直继续下去...</span><br>
+					<span id="text-73" contenteditable="true">高鹏和黄皖榕的故事还会一直继续下去...</span><br>
 					<span id="text-74" style="color: #ff0000" contenteditable="true">祝我们年少有为!</span><br>
 					<br>
 					<br>
@@ -295,13 +294,13 @@
     </div>
     <div class="write-ok">
         <div class="write-box">
-            <h2>还差一步即可生成表白页面</h2>
+            <h2></h2>
             <p id="write-mp3">自定义背景音乐：<span id="text-music" contenteditable="true">https://<?php echo $_SERVER['HTTP_HOST']; ?>/love/forever/music/saveme</span><i></i>.mp3</p>
             <p id="write-url">自定义表白链接：<u>https://<?php echo $_SERVER['HTTP_HOST']; ?>/love/forever/others/</u><span id="text-href" contenteditable="true"><?php echo time(); ?></span><i></i><u>.html</u></p>
             <p><small>自定义链接名只能为3-30位的字母[a-zA-Z]、数字[0-9]、- 和 _ </small></p>
             <small><a href="###" id="back">重新修改</a></small> <button id="write-post">❤ 生成表白页面</button>
             <div class="write-share">
-                <p>~\(≧▽≦)/~ 点击分享 发送给你的亲亲吧</p>
+                <p>~\(≧▽≦)/~</p>
             </div>
         </div>
     </div>
